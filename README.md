@@ -39,7 +39,6 @@ Se quiser interagir comigo, entre em contato no Linkedin, Instagram ou WhatsApp 
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt = "redux" widtf = "40" height = "40" style = "max -largura: 100%; margem: 0 2px; "/> </img>
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt = "vuejs" widtf = "40" height = "40" style = "largura máxima: 100%; margem: 0 2px;" /> </img>
 
-![Snake animation](https://github.com/brunodlucka/brunodlucka/blob/output/github-contribution-grid-snake.svg)
 
 
 
@@ -47,11 +46,7 @@ Se quiser interagir comigo, entre em contato no Linkedin, Instagram ou WhatsApp 
 
 #  Portfólio Independente
 
-Desenvolvimento de projeto - Ficr
-Interface The Legend of Zelda - Majoras Mask
-Netflix
-Desenvolvimento game pokemon
 
 <hr />
 
-####  for Hyrule!
+####  By Hyrule!
