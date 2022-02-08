@@ -1,6 +1,6 @@
 - 👋 Meu nome é Bruno D Lucka
-- 👀 Estudante de análise e desenvolvimento de sistemas, aspirante a desenvolvedor. Atualmente estou estudando nodejs
-- 🌱 estou otimizando meu conhecimento em HTML, CSS, Javascript um pouco de ReactJS
+- 👀 Estudante de análise e desenvolvimento de sistemas, aspirante a desenvolvedor. Atualmente estou estudando Java
+- 🌱 estou otimizando meu conhecimento em HTML, CSS, Javascript um pouco de ferramentas voltadas para desenvolvimento Front-End
 #  Conecte-se a mim:
 
 Bom meu nome é Bruno D Lucka, atualmente sou estudante de Analise e Desenvolvimento de Sistemas (ADS), tenho formação na area de segurança do trabalho e a pouco mais de um ano resolvi ir para área de tecnologia, recentemente tenho entrada em projetos a fim de adqurir conhecimento e criar potfolio com projetos independentes
