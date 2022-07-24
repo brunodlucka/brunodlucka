@@ -1,5 +1,5 @@
 - 👋 Meu nome é Bruno D Lucka
-- 👀 Análise e desenvolvimento de sistemas, desenvolvedor. Atualmente estou estudando linguagem back-end Java
+- 👀 Análise e desenvolvimento de sistemas, desenvolvedor. Atualmente estou estudando linguagem Java
 - 🌱 estou otimizando meu conhecimento em HTML, CSS, Javascript um pouco de ferramentas voltadas para desenvolvimento Front-End como react e bootstrap
 #  Conecte-se a mim:
 
