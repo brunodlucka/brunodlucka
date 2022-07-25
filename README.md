@@ -5,14 +5,14 @@
 
 Atualmente sou estudante de Analise e Desenvolvimento de Sistemas, tenho formação na área de segurança do trabalho e resolvi ir para área de tecnologia, recentemente tenho entrado em projetos voltados para back-end a fim de adqurir conhecimento e criar potfolio com projetos.
 
-Se quiser interagir comigo, entre em contato no Linkedin, Instagram ou WhatsApp abaixo.
+Se quiser interagir comigo, entre em contato no Linkedin, Instagram ou E-mail abaixo.
 
 <div> 
   <a href="https://www.youtube.com/watch?v=sPBzSq3yGbw&ab_channel=SmileTogether" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/brunodlucka/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/brunodlucka" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://www.youtube.com/watch?v=sPBzSq3yGbw&ab_channel=SmileTogether" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:brunolucka8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:bruno_lucka@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brunodlucka/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
