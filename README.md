@@ -40,5 +40,4 @@ Se quiser interagir comigo, entre em contato no Linkedin, Instagram ou E-mail ab
 ####  By Hyrule!
 ![image](https://user-images.githubusercontent.com/79919310/147383427-6c3a9c34-953a-4971-b2e8-f2cebcf4ecd9.png)
 
-![gif](![image](https://user-images.githubusercontent.com/79919310/181053878-168de719-d7cc-4cd1-8e34-28f9288e7da9.png))
 
