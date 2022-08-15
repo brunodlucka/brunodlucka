@@ -1,9 +1,8 @@
-- 👋 Meu nome é Bruno D Lucka
-- 👀 Análise e desenvolvimento de sistemas, desenvolvedor. Atualmente estou estudando linguagem Java
-- 🌱 estou otimizando meu conhecimento em HTML, CSS, Javascript um pouco de ferramentas voltadas para desenvolvimento Front-End como react e bootstrap
-#  Conecte-se a mim:
+- 👋 Bruno D Lucka
+- 👀 Análise e desenvolvimento de sistemas, universidade catolica de pernambuco
+- 🌱 Front-end HTML, CSS, Javascript; React, Bootstrap Back-end NodeJS, Java Springboot - DB, MySql Postgree
 
-Atualmente sou estudante de Analise e Desenvolvimento de Sistemas, tenho formação na área de segurança do trabalho e resolvi ir para área de tecnologia, recentemente tenho entrado em projetos voltados para back-end a fim de adqurir conhecimento e criar potfolio com projetos.
+Analise e Desenvolvimento de Sistemas, tenho formação na área de segurança do trabalho e tive a oportunidade de ir para área de tecnologia, recentemente tenho entrado em projetos voltados para back-end a fim de adqurir conhecimento e criar potfolio com projetos.
 
 Se quiser interagir comigo, entre em contato no Linkedin, Instagram ou E-mail abaixo.
 
