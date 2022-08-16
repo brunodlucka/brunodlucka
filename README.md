@@ -1,5 +1,5 @@
 - 👋 Bruno D Lucka
-- 👀 Análise e desenvolvimento de sistemas, universidade catolica de pernambuco
+- 👀 Análise e desenvolvimento de sistemas, FICR
 - 🌱 Front-end HTML, CSS, Javascript; React, Bootstrap Back-end NodeJS, Java Springboot - DB, MySql Postgree
 
 Analise e Desenvolvimento de Sistemas, tenho formação na área de segurança do trabalho e tive a oportunidade de ir para área de tecnologia, recentemente tenho entrado em projetos voltados para back-end a fim de adqurir conhecimento e criar potfolio com projetos.
