@@ -1,10 +1,10 @@
 - 👋 Bruno D Lucka
-- 👀 Análise e desenvolvimento de sistemas, FICR
-- 🌱 Front-end HTML, CSS, Javascript; React, Bootstrap Back-end NodeJS, Java Springboot - DB, MySql Postgree
+- 👀 Análise e Desenvolvimento de Sistemas, FICR
+- 🌱 Front-end HTML, CSS, Javascript, React, Bootstrap, Back-end Python, Java Springboot - DB, MySql Postgree
 
-Analise e Desenvolvimento de Sistemas, tenho formação na área de segurança do trabalho e tive a oportunidade de ir para área de tecnologia, ultimamnte venho estudando SalesForce através da trailhead.
+  Tenho formação em Analise e Desenvolvimento de Sistemas, Durante minha formação aprendi ferramentas voltadas para o desenvolvimento Front-end e ferramentas para versionamento de codigo, para desenvolvimento Back-end acabei por escolher Python e Java, Recentemente vim a descobrir a área de Salesforce e venho estudado e participado de eventos sobre SalesForce através da trailhead e Dreamforce.
 
-Se quiser interagir comigo, entre em contato no Linkedin, Instagram ou E-mail abaixo.
+                                      Se quiser interagir comigo, entre em contato no Linkedin, Instagram ou E-mail abaixo.
 
 <div> 
   <a href="https://www.youtube.com/watch?v=sPBzSq3yGbw&ab_channel=SmileTogether" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
