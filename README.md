@@ -2,7 +2,7 @@
 - 👀 Análise e Desenvolvimento de Sistemas, FICR
 - 🌱 Front-end HTML, CSS, Javascript, React, Bootstrap, Back-end Python, Java Springboot - DB, MySql Postgree
 
-  Tenho formação em Analise e Desenvolvimento de Sistemas, Durante minha formação aprendi ferramentas voltadas para o desenvolvimento Front-end e ferramentas para versionamento de codigo, para desenvolvimento Back-end acabei por escolher Python e Java, Recentemente vim a descobrir a área de Salesforce e venho estudado e participado de eventos sobre SalesForce através da trailhead e Dreamforce.
+  Tenho formação em Analise e Desenvolvimento de Sistemas, Durante minha formação aprendi ferramentas voltadas para o desenvolvimento Front-end com foco mais em React e ferramentas para versionamento de codigo, para desenvolvimento Back-end acabei por escolher NodeJS e Java com springboot, Recentemente vim a descobrir frameworks direcionados para o Php e venho estudado mais sobre.
 
                                       Se quiser interagir comigo, entre em contato no Linkedin, Instagram ou E-mail abaixo.
 
