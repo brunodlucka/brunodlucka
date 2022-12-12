@@ -1,8 +1,9 @@
 - 👋 Bruno D Lucka
 - 🎓Análise e Desenvolvimento de Sistemas, FICR
 - ✅ Desenvolvedor Back-end Python, Django
-- ▶️ Front-end HTML, CSS, Javascript, ReactJS, Bootstrap,
-- ◀️ Back-end Python, NodeJS - DB, MySql, Postgree
+- ▶️ Front-end: HTML, CSS, Javascript, Bootstrap, ReactJS
+- ◀️ Back-end:  Python, NodeJS  
+- 🪑  Banco DB:  MySql, Postgree
 
   Tenho formação em Analise e Desenvolvimento de Sistemas, Durante minha formação aprendi ferramentas voltadas para o desenvolvimento Front-end com foco mais em ReactJS e ferramentas para versionamento de codigo, para desenvolvimento Back-end acabei por escolher Python e NodeJS, Recentemente vim a descobrir frameworks direcionados para o Php e venho estudado mais sobre.
 
