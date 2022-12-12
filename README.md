@@ -32,7 +32,7 @@
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt = "nodejs" widtf = "40" height = "40" style = "max -largura: 100%; margem: 0 2px; "> </img>
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt = "bootstrap" widtf = "40" height = "40" style = "largura máxima: 100%; margem: 0 2px;" /> </img>
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt = "mysql" widtf = "40" height = "40" style = "largura máxima: 100%; margem: 0 2px;" /> </img>
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt = "photoshop" widtf = "40" height = "40" style = "max -largura: 100%; margem: 0 2px; "/> </img>
+[<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt = "photoshop" widtf = "40" height = "40" style = "max -largura: 100%; margem: 0 2px; "/> </img>](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt = "redux" widtf = "40" height = "40" style = "max -largura: 100%; margem: 0 2px; "/> </img>
 
 
