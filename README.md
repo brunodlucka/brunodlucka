@@ -1,5 +1,6 @@
 - 👋 Bruno D Lucka
 - 🎓Análise e Desenvolvimento de Sistemas, FICR
+- 🎓Ciência de Dados, UniAmerica
 - ✅ Desenvolvedor Back-end Python, Django
 - ▶️ Front-end: HTML, CSS, Javascript, Bootstrap, ReactJS
 - ◀️ Back-end:  Python, NodeJS  
