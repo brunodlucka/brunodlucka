@@ -6,7 +6,7 @@
 - ◀️ Back-end:  Python, NodeJS  
 - 🪑  Banco DB:  MySql, Postgree
 
-  Tenho formação em Analise e Desenvolvimento de Sistemas, Durante minha formação aprendi ferramentas voltadas para o desenvolvimento Front-end com foco mais em ReactJS e ferramentas para versionamento de codigo, para desenvolvimento Back-end acabei por escolher Python e NodeJS, atualmente estou cursando Pós graduação na area de Ciência de Dados, Trazendo soluções para desafios de implementação de projetos em Python
+  Tenho formação em Analise e Desenvolvimento de Sistemas, Durante minha formação aprendi ferramentas voltadas para o desenvolvimento Front-end com foco em ReactJS e ferramentas para versionamento de codigo, para desenvolvimento Back-end acabei por escolher Python e PHP, atualmente estou cursando Pós graduação na area de Ciência de Dados, Trazendo soluções para desafios de implementação de projetos em Python e Power Bi 
 
                                       Se quiser interagir comigo, entre em contato no Linkedin, Instagram ou E-mail abaixo.
 
