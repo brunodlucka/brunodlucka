@@ -1,10 +1,10 @@
 - 👋 Bruno D Lucka
 - 🎓Análise e Desenvolvimento de Sistemas,
 - 🎓Ciência de Dados, Data Science
-- ✅ Desenvolvedor Back-end Python, PHP, Laravel
+- ✅ Desenvolvedor Back-end, PHP, Laravel
 - ▶️ Front-end: HTML, CSS, Javascript, Bootstrap, ReactJS
-- ◀️ Back-end:  Python, PHP  
-- 🪑  Banco DB:  MySql, Postgree
+- ◀️ Back-end: PHP, Laravel  
+- 🪑 Banco DB:  MySql, Postgree
 
   Tenho formação em Analise e Desenvolvimento de Sistemas, Durante minha formação aprendi ferramentas voltadas para o desenvolvimento Front-end com foco em ReactJS e ferramentas para versionamento de codigo, para desenvolvimento Back-end acabei por escolher Python e PHP, atualmente estou cursando Pós graduação na area de Ciência de Dados, Trazendo soluções para desafios de implementação de projetos em Python e Power Bi 
 
