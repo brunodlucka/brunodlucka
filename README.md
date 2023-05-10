@@ -2,6 +2,7 @@
 - 🎓Análise e Desenvolvimento de Sistemas,
 - 🎓Ciência de Dados, Data Science
 - ⛑️ Técnico em Segurança do Trabalho
+- 👔 Salesforce - Trailhead
 
 - ✅ Desenvolvedor
 - ▶️ Front-end: HTML5, CSS3, Javascript, Bootstrap, ReactJS
