@@ -6,7 +6,7 @@
 
 - ✅ Desenvolvedor
 - ▶️ Front-end: HTML5, CSS3, Javascript, Bootstrap, ReactJS
-- ◀️ Back-end: Python, PHP, Laravel  
+- ◀️ Back-end: Python, Django,
 - 🪑 Banco DB:  MySql, Postgree
 
   Formação em Analise e Desenvolvimento de Sistemas, Durante minha formação aprendi ferramentas voltadas para o desenvolvimento Front-End com bibliotecas como Bootstrap e ReactJS, em conjunto com ferramentas para versionamento de código Git, para desenvolvimento Back-End acabei por escolher Python e desenvolvido projetos com analise e tratativas de dados.
