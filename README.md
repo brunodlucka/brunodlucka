@@ -9,7 +9,7 @@
 - ◀️ Back-end: Python, PHP, Laravel  
 - 🪑 Banco DB:  MySql, Postgree
 
-  Tenho formação em Analise e Desenvolvimento de Sistemas, Durante minha formação aprendi ferramentas voltadas para o desenvolvimento Front-End com bibliotecas como Bootstrap e ReactJS, em conjunto com ferramentas para versionamento de código Git, para desenvolvimento Back-End acabei por escolher Python e desenvolvido projetos com analise e tratativas de dados.
+  Formação em Analise e Desenvolvimento de Sistemas, Durante minha formação aprendi ferramentas voltadas para o desenvolvimento Front-End com bibliotecas como Bootstrap e ReactJS, em conjunto com ferramentas para versionamento de código Git, para desenvolvimento Back-End acabei por escolher Python e desenvolvido projetos com analise e tratativas de dados.
 
   🟩 Desenvolvimento e manutenção de aplicações web:
 Implementação de novas funcionalidades para sistemas existentes:
