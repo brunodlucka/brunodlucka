@@ -1,20 +1,22 @@
 - 👋 Bruno D Lucka
 - 🎓Análise e Desenvolvimento de Sistemas,
 - 🎓Ciência de Dados, Data Science
-- ⛑️ Técnico em Segurança do Trabalho
 - 👔 Salesforce - Trailhead
+- ⛑️ Técnico em Segurança do Trabalho
 
-- ✅ Desenvolvedor
-- ▶️ Front-end: HTML5, CSS3, Javascript, Bootstrap, ReactJS
-- ◀️ Back-end: Python, Django,
-- 🪑 Banco DB:  MySql, Postgree
+Formação em Análise e Desenvolvimento de Sistemas, adquirindo conhecimentos sólidos em diversas áreas da tecnologia. Durante minha trajetória acadêmica, concentrei meu aprendizado no desenvolvimento Front-End, utilizando bibliotecas como Bootstrap e ReactJS. Além disso, como profissional, tenho experiência sólida no campo dos sistemas de ERP, obtendo conhecimentos aprofundados em gestão empresarial e gerenciamento do setor tecnologia.
+Ao longo da minha carreira, trabalhei com diferentes sistemas de ERP, adquirindo expertise na implementação, configuração e suporte dessas soluções.
+No âmbito do desenvolvimento Back-End, optei pela linguagem Python e participei ativamente de projetos envolvendo análise e tratamento de dados, bem como na criação de dashboards com Power Bi.
 
-  Formação em Analise e Desenvolvimento de Sistemas, Durante minha formação aprendi ferramentas voltadas para o desenvolvimento Front-End com bibliotecas como Bootstrap e ReactJS, em conjunto com ferramentas para versionamento de código Git, para desenvolvimento Back-End acabei por escolher Python e desenvolvido projetos com analise e tratativas de dados.
+Com experiência na criação e manutenção de aplicações web, tive a oportunidade de implementar novas funcionalidades em sistemas já estabelecidos. Minhas habilidades abrangem um conjunto diversificado de tecnologias, incluindo HTML5, CSS3, JavaScript, Bootstrap, ReactJS, Python, PHP e SQL.
 
-  🟩 Desenvolvimento e manutenção de aplicações web:
-Implementação de novas funcionalidades para sistemas existentes:
- 
-  🟥 HTML5, CSS3, JavaScript, Bootstrap, ReactJS, Python, Php, SQL
+Atualmente, estou direcionando meu foco para expandir meus conhecimentos em Salesforce. Estou imerso em estudos ativos na plataforma Trailhead, aprofundando-me nos recursos e funcionalidades oferecidos. Além disso, estou em busca de certificações Salesforce, buscando aprimorar ainda mais minha expertise na área.
+
+Estou animado com as possibilidades que a plataforma Trail proporciona e confiante de que minha formação em Análise e Desenvolvimento de Sistemas, aliada ao meu compromisso contínuo de aprendizado e desenvolvimento, me tornará um profissional qualificado capaz de contribuir para o sucesso de projetos.
+
+Estou disponível para networking e interessado em oportunidades profissionais relacionadas a Salesforce e áreas correlatas. Sinta-se à vontade para entrar em contato comigo para discutirmos possíveis colaborações ou oportunidades de trabalho.
+
+#Salesforce #DesenvolvedorWeb #AnáliseDeDados #FrontEnd #BackEnd #HTML5 #CSS3 #JavaScript #Bootstrap #ReactJS #Python #PHP #SQL #Laravel
 
                                       Se quiser interagir comigo, entre em contato no Linkedin, Instagram ou E-mail abaixo.
 
