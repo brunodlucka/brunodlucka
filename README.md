@@ -1,4 +1,5 @@
--![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/205a7477-11e0-4674-a205-def0cf8a1149)
+![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/7ac24091-767b-48e6-a8ee-629653ce95b2)
+
 Bruno D Lucka
 - 🎓Análise e Desenvolvimento de Sistemas,
 - 🎓Ciência de Dados, Data Science
