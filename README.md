@@ -6,7 +6,7 @@
 
 Atualmente, estou direcionando meu foco para expandir meus conhecimentos em Salesforce. Estou imerso em estudos ativos na plataforma Trailhead, aprofundando-me nos recursos e funcionalidades. Além disso, estou em busca de certificações Salesforce, buscando aprimorar ainda mais meu conhecimento.
 
-Atualmente estou no RANGER 
+Atualmente estou rank: RANGER 
 ![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/ce929988-958f-4fc9-85af-edbe968129b7)
 ![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/1eab9927-af80-4a50-b9de-017a8dad33b8)
 
@@ -55,7 +55,8 @@ Estou disponível para networking e interessado em oportunidades profissionais r
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt = "nodejs" widtf = "40" height = "40" style = "max -largura: 100%; margem: 0 2px; "> </img>
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt = "bootstrap" widtf = "40" height = "40" style = "largura máxima: 100%; margem: 0 2px;" /> </img>
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt = "mysql" widtf = "40" height = "40" style = "largura máxima: 100%; margem: 0 2px;" /> </img>
-<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt = "python" widtf = "40" height = "40" style = "max -largura: 100%; margem: 0 2px; "/> </img>
+<img src = "![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/e6a5926d-ffcd-407b-86a9-8a2f51b0bf76)
+" alt = "python" widtf = "40" height = "40" style = "max -largura: 100%; margem: 0 2px; "/> </img>
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt = "redux" widtf = "40" height = "40" style = "max -largura: 100%; margem: 0 2px; "/> </img>
 
 
