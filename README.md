@@ -2,12 +2,13 @@
 - 🎓Análise e Desenvolvimento de Sistemas,
 - 🎓Ciência de Dados, Data Science
 - 👔 Salesforce - Trailhead
-- ⛑️ Técnico em Segurança do Trabalho
+- 
 
 
 Atualmente, estou direcionando meu foco para expandir meus conhecimentos em Salesforce. Estou imerso em estudos ativos na plataforma Trailhead, aprofundando-me nos recursos e funcionalidades. Além disso, estou em busca de certificações Salesforce, buscando aprimorar ainda mais meu conhecimento.
 
-Atualmente estou no RANGER
+Atualmente estou no RANGER ![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/66d1b2b8-1c7d-49bd-8eac-a163a5428c10)
+
 
 Estou animado com as possibilidades que a plataforma Trail proporciona e confiante de que minha formação em Análise e Desenvolvimento de Sistemas, aliada ao meu compromisso contínuo de aprendizado e desenvolvimento, me tornará um profissional qualificado.
 
