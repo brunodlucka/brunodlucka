@@ -1,4 +1,4 @@
-Bruno D' Lucka                                                            ![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/b612bc2b-21b3-4fd6-a20f-2481a0d3a72b) 
+-  👔  Bruno D' Lucka                                                                                          .![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/b612bc2b-21b3-4fd6-a20f-2481a0d3a72b) 
 - 🎓Análise e Desenvolvimento de Sistemas,
 - 🎓Ciência de Dados, Data Science
 - 👔 Salesforce - Trailhead 
@@ -6,7 +6,7 @@ Bruno D' Lucka                                                            ![imag
 
 Atualmente, estou direcionando meu foco para expandir meus conhecimentos em Salesforce. Estou imerso em estudos ativos na plataforma Trailhead, aprofundando-me nos recursos e funcionalidades. Além disso, estou em busca de certificações Salesforce, buscando aprimorar ainda mais meu conhecimento.
 
-Atualmente estou rank: RANGER ![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/4c518bcc-374f-4f5a-b314-eb8e1cc57cab)
+Atualmente estou rank: RANGER                                                                                    .![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/4c518bcc-374f-4f5a-b314-eb8e1cc57cab)
 
 
 
@@ -48,16 +48,11 @@ Estou disponível para networking e interessado em oportunidades profissionais r
 
 #  Minhas habilidades
 
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt = "html" widtf = "40" height = "40" style = "max -largura: 100%; margem: 0 2px; "> </img>
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt = "css" widtf = "40" height = "40" style = "max -largura: 100%; margem: 0 2px; "> </img>
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt = "javascript" widtf = "40" height = "40" style = "max -largura: 100%; margem: 0 2px; "> </img>
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt = "reactjs" widtf = "40" height = "40" style = "max -largura: 100%; margem: 0 2px; "> </img>
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt = "nodejs" widtf = "40" height = "40" style = "max -largura: 100%; margem: 0 2px; "> </img>
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt = "bootstrap" widtf = "40" height = "40" style = "largura máxima: 100%; margem: 0 2px;" /> </img>
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt = "mysql" widtf = "40" height = "40" style = "largura máxima: 100%; margem: 0 2px;" /> </img>
-<img src = "![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/e6a5926d-ffcd-407b-86a9-8a2f51b0bf76)
-" alt = "python" widtf = "40" height = "40" style = "max -largura: 100%; margem: 0 2px; "/> </img>
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt = "redux" widtf = "40" height = "40" style = "max -largura: 100%; margem: 0 2px; "/> </img>
+![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/58308055-6fa4-4b30-a1f5-92d27b353874)
+![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/39c4e086-2abc-4e3f-95cb-8e60e9c6e103)
+![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/fe7b5d84-f7a4-4416-8715-49a676f79871)
+
+
 
 
 
