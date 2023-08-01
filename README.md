@@ -4,6 +4,15 @@
 - 👔 Salesforce - Trailhead
 - ⛑️ Técnico em Segurança do Trabalho
 
+
+Atualmente, estou direcionando meu foco para expandir meus conhecimentos em Salesforce. Estou imerso em estudos ativos na plataforma Trailhead, aprofundando-me nos recursos e funcionalidades. Além disso, estou em busca de certificações Salesforce, buscando aprimorar ainda mais meu conhecimento.
+
+Atualmente estou no RANGER
+
+Estou animado com as possibilidades que a plataforma Trail proporciona e confiante de que minha formação em Análise e Desenvolvimento de Sistemas, aliada ao meu compromisso contínuo de aprendizado e desenvolvimento, me tornará um profissional qualificado.
+
+Estou disponível para networking e interessado em oportunidades profissionais relacionadas a Salesforce e áreas correlatas. Sinta-se à vontade para entrar em contato comigo para discutirmos possíveis colaborações ou oportunidades de trabalho.
+
 Formação em Análise e Desenvolvimento de Sistemas, adquirindo conhecimentos sólidos em diversas áreas da tecnologia. Durante minha trajetória acadêmica, concentrei meu aprendizado no desenvolvimento Front-End, utilizando bibliotecas como Bootstrap e ReactJS. Além disso, como profissional, tenho experiência sólida no campo dos sistemas de ERP, obtendo conhecimentos aprofundados em gestão empresarial e gerenciamento do setor tecnologia.
 Ao longo da minha carreira, trabalhei com diferentes sistemas de ERP, adquirindo expertise na implementação, configuração e suporte dessas soluções.
 No âmbito do desenvolvimento Back-End, optei pela linguagem Python e participei ativamente de projetos envolvendo análise e tratamento de dados, bem como na criação de dashboards com Power Bi.
