@@ -1,15 +1,11 @@
--  👔  Bruno D' Lucka                                                                                          .![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/b612bc2b-21b3-4fd6-a20f-2481a0d3a72b) 
-- 🎓Análise e Desenvolvimento de Sistemas,
-- 🎓Ciência de Dados, Data Science
-- 👔 Salesforce - Trailhead 
-
+- 👔 Bruno D' Lucka                                                                 
+- 🎓 Análise e Desenvolvimento de Sistemas,
+- 🎓 Ciência de Dados, Data Science
+- ☁️ Salesforce - Trailhead 
 
 Atualmente, estou direcionando meu foco para expandir meus conhecimentos em Salesforce. Estou imerso em estudos ativos na plataforma Trailhead, aprofundando-me nos recursos e funcionalidades. Além disso, estou em busca de certificações Salesforce, buscando aprimorar ainda mais meu conhecimento.
 
-Atualmente estou rank: RANGER                                                                                    .![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/4c518bcc-374f-4f5a-b314-eb8e1cc57cab)
-
-
-
+Atualmente estou rank: RANGER
 
 
 Estou animado com as possibilidades que a plataforma Trail proporciona e confiante de que minha formação em Análise e Desenvolvimento de Sistemas, aliada ao meu compromisso contínuo de aprendizado e desenvolvimento, me tornará um profissional qualificado.
@@ -32,6 +28,17 @@ Estou disponível para networking e interessado em oportunidades profissionais r
 
                                       Se quiser interagir comigo, entre em contato no Linkedin, Instagram ou E-mail abaixo.
 
+<hr />
+
+#  Minhas habilidades
+
+![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/58308055-6fa4-4b30-a1f5-92d27b353874)
+![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/39c4e086-2abc-4e3f-95cb-8e60e9c6e103)
+![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/fe7b5d84-f7a4-4416-8715-49a676f79871)
+![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/2de2d540-af51-4114-8466-c1d233a1b65e)
+![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/4c518bcc-374f-4f5a-b314-eb8e1cc57cab)
+![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/d53765e0-7eba-43ed-a4ea-a4c25671548a)
+
 <div> 
   <a href="https://www.youtube.com/watch?v=sPBzSq3yGbw&ab_channel=SmileTogether" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/brunodlucka/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -44,13 +51,7 @@ Estou disponível para networking e interessado em oportunidades profissionais r
  
 </div>
 
-<hr />
 
-#  Minhas habilidades
-
-![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/58308055-6fa4-4b30-a1f5-92d27b353874)
-![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/39c4e086-2abc-4e3f-95cb-8e60e9c6e103)
-![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/fe7b5d84-f7a4-4416-8715-49a676f79871)
 
 
 
