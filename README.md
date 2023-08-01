@@ -1,4 +1,4 @@
-![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/b612bc2b-21b3-4fd6-a20f-2481a0d3a72b) Bruno D Lucka
+Bruno D' Lucka                                                            ![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/b612bc2b-21b3-4fd6-a20f-2481a0d3a72b) 
 - 🎓Análise e Desenvolvimento de Sistemas,
 - 🎓Ciência de Dados, Data Science
 - 👔 Salesforce - Trailhead 
@@ -6,7 +6,8 @@
 
 Atualmente, estou direcionando meu foco para expandir meus conhecimentos em Salesforce. Estou imerso em estudos ativos na plataforma Trailhead, aprofundando-me nos recursos e funcionalidades. Além disso, estou em busca de certificações Salesforce, buscando aprimorar ainda mais meu conhecimento.
 
-Atualmente estou rank: RANGER 
+Atualmente estou rank: RANGER ![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/4c518bcc-374f-4f5a-b314-eb8e1cc57cab)
+
 
 
 
