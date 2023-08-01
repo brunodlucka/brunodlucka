@@ -1,4 +1,4 @@
-![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/7ac24091-767b-48e6-a8ee-629653ce95b2)
+![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/b612bc2b-21b3-4fd6-a20f-2481a0d3a72b)
 
 Bruno D Lucka
 - 🎓Análise e Desenvolvimento de Sistemas,
