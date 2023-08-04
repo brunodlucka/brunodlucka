@@ -46,5 +46,8 @@ Estou disponível para networking e interessado em oportunidades profissionais r
   <a href = "mailto:bruno_lucka@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brunodlucka/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
+![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/fd6322b3-f359-4ead-a2ee-d340a404afc5)  _        .         .        .      .     .    .
+![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/55769a04-c109-41ac-84d3-33394351cdde)
+
+
+
