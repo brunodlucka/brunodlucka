@@ -14,9 +14,11 @@ Estou disponível para networking e interessado em oportunidades profissionais r
 ![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/58308055-6fa4-4b30-a1f5-92d27b353874)
 ![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/39c4e086-2abc-4e3f-95cb-8e60e9c6e103)
 ![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/fe7b5d84-f7a4-4416-8715-49a676f79871)
-![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/f130acb8-cb02-48dc-a86e-72b8a657eeae)
-![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/2de2d540-af51-4114-8466-c1d233a1b65e)
 ![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/27125fe0-b207-414f-b592-936eef1d69fb)
+![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/2de2d540-af51-4114-8466-c1d233a1b65e)
+![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/42c227d6-13a5-46fa-83f5-bba3d4ef514c)
+
+
 
 <br>
 
