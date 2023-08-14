@@ -1,13 +1,14 @@
 - 👔 Bruno D' Lucka                                                                 
 - 🎓 Análise e Desenvolvimento de Sistemas,
 - 🎓 Ciência de Dados, Data Science
+- 🎓 Cesar School - Ciência de Dados
 - ☁️ Salesforce - Trailhead                                                                              
 
-Atualmente, estou direcionando meu foco para expandir meus conhecimentos em Salesforce. Estou imerso em estudos ativos na plataforma Trailhead, aprofundando-me nos recursos e funcionalidades. Além disso, estou em busca de certificações Salesforce, buscando aprimorar ainda mais meu conhecimento.
+Atualmente estudo Ciência de Dados na César School aplicando estratégias de análises de dados, utilizando banco de dados SQL, linguagem de programação Python e técnicas de DataViz com Power Bi com o intuito de me desenvolver como analista de dados venho desenvolvendo projeto de ETL.
 
 Atualmente estou rank: RANGER
 
-Estou disponível para networking e interessado em oportunidades profissionais relacionadas a Salesforce e áreas correlatas. Sinta-se à vontade para entrar em contato comigo para discutirmos possíveis colaborações ou oportunidades de trabalho.
+Estou disponível para networking e interessado em oportunidades profissionais relacionadas a Analise de dados, Salesforce e áreas correlatas. Sinta-se à vontade para entrar em contato comigo para discutirmos possíveis colaborações.
 
 #  Minhas habilidades
 
