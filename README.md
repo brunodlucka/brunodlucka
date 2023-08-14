@@ -2,7 +2,7 @@
 - 🎓 Análise e Desenvolvimento de Sistemas,
 - 🎓 Ciência de Dados, Data Science
 - 🎓 Cesar School - Ciência de Dados
-- ☁️ Salesforce - Trailhead                                                                              
+- ☁️ Salesforce - Ranger                                                                              
 
 Atualmente estudo Ciência de Dados na César School aplicando estratégias de análises de dados, utilizando banco de dados SQL, linguagem de programação Python e técnicas de DataViz com Power Bi com o intuito de me desenvolver como analista de dados venho desenvolvendo projeto de ETL.
 
