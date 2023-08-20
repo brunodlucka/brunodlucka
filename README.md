@@ -4,12 +4,13 @@
 - 🎓 Cesar School - Ciência de Dados
 - ☁️ Salesforce - Ranger                                                                              
 
-Atualmente estudo Ciência de Dados na César School aplicando estratégias de análises de dados, utilizando banco de dados SQL, linguagem de programação Python e técnicas de DataViz com Power Bi com o intuito de me desenvolver como analista de dados venho desenvolvendo projeto de ETL.
+Estudo Salesforce através da plataforma Trailhead com o auxílio de trilhas direcionadas para a função de Administrador | Analista Funcional, no momento me encontro no titulo de Ranger somando mais de 50 mil pontos na plataforma.
+
+Frequentemente participo de botcamps e treinamentos na área de Salesforce afim de adquirir mais conhecimento na plataforma, empenhado em me desenvolver ainda mais nos recursos e funcionalidades. 
 
 Atualmente estou rank: RANGER
 
-Estou disponível para networking e interessado em oportunidades profissionais relacionadas a Analise de dados, Salesforce e áreas correlatas. Sinta-se à vontade para entrar em contato comigo para discutirmos possíveis colaborações.
-
+Estou disponível para networking e interessado em oportunidades profissionais relacionadas a Salesforce e áreas correlatas. Sinta-se à vontade para entrar em contato comigo para discutirmos possíveis colaborações.
 #  Minhas habilidades
 
 ![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/58308055-6fa4-4b30-a1f5-92d27b353874)
