@@ -1,7 +1,6 @@
 - 👔 Bruno D' Lucka                                                                 
 - 🎓 Análise e Desenvolvimento de Sistemas,
 - 🎓 Ciência de Dados, Data Science
-- 🎓 Cesar School - Ciência de Dados
 - ☁️ Salesforce - Ranger                                                                              
 
 Estudo Salesforce através da plataforma Trailhead com o auxílio de trilhas direcionadas para a função de Administrador | Analista Funcional, no momento me encontro no titulo de Ranger somando mais de 50 mil pontos na plataforma.
