@@ -6,16 +6,16 @@
 Entre as atividades que tenho conhecimento destaco:
 
 • Criação de documentações técnicas <br>
-• Implementação e configuração de Bots com Einstein;
-• Configuração e gerenciamento de Permission Sets;
-• Construção de relatórios e dashboards;
-• Banco de dados Salesforce CRUD Querys SQL
-• Desenvolvimento e automação com Flows e Omni-Flows;
-• Testes e validações;
-• Extração e Inserção dados utilizando Inspector e Data Loader;
-• Documentação detalhada de processos e projetos.
-• Reestruturação e otimização de layouts da organização;
-• Integrações
+• Implementação e configuração de Bots com Einstein; <br>
+• Configuração e gerenciamento de Permission Sets; <br>
+• Construção de relatórios e dashboards; <br>
+• Banco de dados Salesforce CRUD Querys SQL <br>
+• Desenvolvimento e automação com Flows e Omni-Flows; <br>
+• Testes e validações; <br>
+• Extração e Inserção dados utilizando Inspector e Data Loader; <br>
+• Documentação detalhada de processos e projetos. <br>
+• Reestruturação e otimização de layouts da organização; <br>
+• Integrações <br>
 
 Tenho sólido conhecimento nas nuvens Service e Sales Cloud. Na Service Cloud, atuo com automação de processos, gerenciamento de objetos e casos, personalização de fluxos de atendimento para oferecer experiências mais ágeis e eficientes. Já na Sales Cloud, meu foco está na otimização de funis de vendas, automação de tarefas e criação de layouts intuitivos que melhorem a usabilidade e a produtividade das equipes comerciais.
 
