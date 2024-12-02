@@ -1,14 +1,27 @@
 - 👔 Bruno D' Lucka                                                                 
 - 🎓 Análise e Desenvolvimento de Sistemas,
 - 🎓 Ciência de Dados, Data Science
-- ☁️ Salesforce - Ranger                                                                              
+🌥️ Salesforce | Administration Specialist | +++ 
 
-Estudo Salesforce através da plataforma Trailhead com o auxílio de trilhas direcionadas para a função de Administrador | Analista Funcional, no momento me encontro no titulo de Ranger somando mais de 50 mil pontos na plataforma.
+Entre as atividades que tenho conhecimento destaco:
 
-Frequentemente participo de botcamps e treinamentos na área de Salesforce afim de adquirir mais conhecimento na plataforma, empenhado em me desenvolver ainda mais nos recursos e funcionalidades. 
+• Criação de documentações técnicas
+• Implementação e configuração de Bots com Einstein;
+• Configuração e gerenciamento de Permission Sets;
+• Construção de relatórios e dashboards;
+• Banco de dados Salesforce CRUD Querys SQL
+• Desenvolvimento e automação com Flows e Omni-Flows;
+• Testes e validações;
+• Extração e Inserção dados utilizando Inspector e Data Loader;
+• Documentação detalhada de processos e projetos.
+• Reestruturação e otimização de layouts da organização;
+• Integrações
 
-Atualmente estou rank: RANGER
+Tenho sólido conhecimento nas nuvens Service e Sales Cloud. Na Service Cloud, atuo com automação de processos, gerenciamento de objetos e casos, personalização de fluxos de atendimento para oferecer experiências mais ágeis e eficientes. Já na Sales Cloud, meu foco está na otimização de funis de vendas, automação de tarefas e criação de layouts intuitivos que melhorem a usabilidade e a produtividade das equipes comerciais.
 
+Tenho conhecimento queries SOQL para segmentação precisa e qualificação adequada de públicos, garantindo campanhas personalizadas e estratégias de comunicação mais assertivas.
+
+Além disso, possuo experiência prévia em desenvolvimento APEX e estou continuamente estudando para aprofundar meus conhecimentos nessa linguagem, com o objetivo de obter novas certificações Salesforce e expandir minhas capacidades técnicas.
 Estou disponível para networking e interessado em oportunidades profissionais relacionadas a Salesforce e áreas correlatas. Sinta-se à vontade para entrar em contato comigo para discutirmos possíveis colaborações.
 #  Minhas habilidades
 
@@ -30,7 +43,6 @@ No âmbito do desenvolvimento Back-End, optei pela linguagem Python e participei
 Com experiência na criação e manutenção de aplicações web, tive a oportunidade de implementar novas funcionalidades em sistemas já estabelecidos. Minhas habilidades abrangem um conjunto diversificado de tecnologias, incluindo HTML5, CSS3, JavaScript, Bootstrap, ReactJS, Python, PHP e SQL.
 
 Atualmente, estou direcionando meu foco para expandir meus conhecimentos em Analise de Dados e Salesforce. Estou imerso em estudos ativos na plataforma Trailhead, aprofundando-me nos recursos e funcionalidades oferecidos. Além disso, estou em busca de certificações Badges Salesforce, buscando aprimorar ainda mais minha expertise na área.
-
 
 Estou disponível para networking e interessado em oportunidades profissionais relacionadas a Salesforce e áreas correlatas. Sinta-se à vontade para entrar em contato comigo para discutirmos possíveis colaborações ou oportunidades de trabalho.
 
