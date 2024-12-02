@@ -5,7 +5,7 @@
 
 Entre as atividades que tenho conhecimento destaco:
 
-• Criação de documentações técnicas
+• Criação de documentações técnicas <br>
 • Implementação e configuração de Bots com Einstein;
 • Configuração e gerenciamento de Permission Sets;
 • Construção de relatórios e dashboards;
