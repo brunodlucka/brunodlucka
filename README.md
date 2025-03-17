@@ -17,3 +17,7 @@ Atualmente, estou dedicando meu tempo ao estudo e aprimoramento das minhas habil
 🔹Mais de 120 mil pontos no Trailhead, conquistando o título de 2x Ranger, reforçando meu compromisso com o aprendizado contínuo e excelência no ecossistema Salesforce.
 
 Extração e Inserção dados utilizando Inspector e Data Loader.
+
+
+![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/27125fe0-b207-414f-b592-936eef1d69fb)
+![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/42c227d6-13a5-46fa-83f5-bba3d4ef514c)
