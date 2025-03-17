@@ -1,6 +1,6 @@
-🎓 Análise e Desenvolvimento de Sistemas
-🎓 Pós-graduação em Ciência de Dados
-🎓 Pós-graduação em Desenvolvimento Java
+🎓 Análise e Desenvolvimento de Sistemas <br>
+🎓 Pós-graduação em Ciência de Dados <br>
+🎓 Pós-graduação em Desenvolvimento Java <br>
 
 🔹 Desenvolvimento Salesforce (Apex e LWC)
 Desenvolvimento de soluções personalizadas utilizando Apex, criando triggers, classes
@@ -21,3 +21,6 @@ Extração e Inserção dados utilizando Inspector e Data Loader.
 
 ![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/27125fe0-b207-414f-b592-936eef1d69fb)
 ![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/42c227d6-13a5-46fa-83f5-bba3d4ef514c)
+![image](https://img.icons8.com/?size=100&id=OaGUJyx38778&format=png&color=000000).
+![image](https://img.icons8.com/?size=100&id=40979&format=png&color=000000).
+![image](https://img.icons8.com/?size=100&id=SbU66vwsuhmG&format=png&color=000000).
