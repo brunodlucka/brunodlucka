@@ -22,4 +22,4 @@ Extração e Inserção dados utilizando Inspector e Data Loader.
 ![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/27125fe0-b207-414f-b592-936eef1d69fb)
 ![image](https://img.icons8.com/?size=100&id=OaGUJyx38778&format=png&color=000000)
 ![image](https://img.icons8.com/?size=100&id=40979&format=png&color=000000)
-![image]([https://img.icons8.com/?size=100&id=SbU66vwsuhmG&format=png&color=000000](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs1MwVKMxJekm1UBWEXSCR0tPS3TE___zBWw&s))
+![image](https://github.com/user-attachments/assets/81c8c4d0-4a2e-4b1a-9588-278702d46551)
