@@ -35,7 +35,7 @@
 🧰 Ferramentas e Metodologias<br>
 🔹 Extração e carga de dados com Salesforce Inspector e Data Loader<br>
 🔹 Vivência com metodologias ágeis (Scrum e Kanban)<br>
-🔹 Uso de ferramentas como Jira, Asana e Azure DevOps
+🔹 Uso de ferramentas como Jira, Asana e Azure DevOps <br> <br>
 ![image](https://github.com/brunodlucka/brunodlucka/assets/79919310/42c227d6-13a5-46fa-83f5-bba3d4ef514c)
 ![image](https://img.icons8.com/?size=100&id=OaGUJyx38778&format=png&color=000000)
 ![image](https://img.icons8.com/?size=100&id=40979&format=png&color=000000)
